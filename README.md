@@ -141,9 +141,9 @@ What connects all of them:
 
 | Date | Milestone |
 |---|---|
-| Febuary 2024 | J.A.R.V.I.S. deployed — the first agent |
-| March 2024 | MANÁ and Ancla built — daily faith practice established |
-| April 2025 | Lens, Rodger, Sandcrane, Arquitecto added |
+| Febuary 2026 | J.A.R.V.I.S. deployed — the first agent |
+| March 2026 | MANÁ and Ancla built — daily faith practice established |
+| April 2026 | Lens, Rodger, Sandcrane, Arquitecto added |
 | April 2026 | Puente and Pulso built for FutureTech interview preparation |
 | May 2026 | Severus Snape deployed — Python learning begins |
 
